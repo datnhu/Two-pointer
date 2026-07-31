@@ -1,3 +1,4 @@
+//https://www.spoj.com/problems/CEPC08B/en/
 #include <bits/stdc++.h>
 using namespace std;
 
